@@ -1,5 +1,27 @@
-h1 {
+.h1 {
     color: white;
-    font-family: courier;
-    font-size: 150%;
+    font-family: arial;
+    font-size: 10%;
+}
+
+.circle  {
+  color: white;
+  border-radius:150%;
+
+}
+.hovergallery img:hover{
+-webkit-transform:scale(0.9);
+-moz-transform:scale(0.9);
+-o-transform:scale(0.9);
+opacity: 0.8;
+}
+.hovergallery img{
+max-width: 100%;
+margin-bottom: 2%;
+-webkit-transform:scale(1); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(1); /*Mozilla scale version*/
+-o-transform:scale(1); /*Opera scale version*/
+-webkit-transition-duration: 0.4s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.4s; /*Mozilla duration version*/
+-o-transition-duration: 0.4s; /*Opera duration version*/
 }
