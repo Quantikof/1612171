@@ -3,7 +3,7 @@
     "name": "1612171",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 30,
+    "uniqCompNum": 32,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -429,13 +429,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#1abc9c",
+            "color": "#28324e",
             "hamburgerColor": "#e25041"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li>",
@@ -447,10 +447,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#28324e"
             },
             ".mbr-navbar__hamburger": {
               "color": "#e25041"
@@ -459,13 +459,16 @@
               "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-navbar__items a H2": {
+              "font-size": "13px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://quantikof.github.io\">STRONA GŁÓWNA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projekty.html\">PROJEKTY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">USŁUGI</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"zrealizowane.html\">ZREALIZOWANE</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://quantikof.github.io\">STRONA GŁÓWNA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projekty.html\">PROJEKTY<h2></h2></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">USŁUGI</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/24882954-1798876180411359-2069255224-o-160x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24882954_1798876180411359_2069255224_o-160x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -484,15 +487,31 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
           },
-          "title": "Sassy było przekrętem to zrobił nową organizacje do naciągania ludzi!&nbsp;",
-          "meta": "Szok i niedowierzanie!",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1400x1120.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-k"
+          "_name": "image1",
+          "_anchor": "image1-v"
         }
       ]
     },
@@ -500,19 +519,19 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Projekty",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#1abc9c",
+            "color": "#28324e",
             "hamburgerColor": "#e25041"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li>",
@@ -524,10 +543,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#28324e"
             },
             ".mbr-navbar__hamburger": {
               "color": "#e25041"
@@ -536,13 +555,16 @@
               "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-navbar__items a H2": {
+              "font-size": "13px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">STRONA GŁÓWNA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projekty.html\">PROJEKTY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">USŁUGI</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"zrealizowane.html\">ZREALIZOWANE</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://quantikof.github.io\">STRONA GŁÓWNA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projekty.html\">PROJEKTY<h2></h2></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">USŁUGI</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/24882954-1798876180411359-2069255224-o-160x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24882954_1798876180411359_2069255224_o-160x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -565,19 +587,19 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Usługi",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#1abc9c",
+            "color": "#28324e",
             "hamburgerColor": "#e25041"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li>",
@@ -589,10 +611,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#28324e"
             },
             ".mbr-navbar__hamburger": {
               "color": "#e25041"
@@ -601,13 +623,16 @@
               "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-navbar__items a H2": {
+              "font-size": "13px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">STRONA GŁÓWNA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projekty.html\">PROJEKTY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">USŁUGI</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"zrealizowane.html\">ZREALIZOWANE</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://quantikof.github.io\">STRONA GŁÓWNA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projekty.html\">PROJEKTY<h2></h2></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">USŁUGI</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/24882954-1798876180411359-2069255224-o-160x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24882954_1798876180411359_2069255224_o-160x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -630,19 +655,19 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Zrealizowane",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#1abc9c",
+            "color": "#28324e",
             "hamburgerColor": "#e25041"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li>",
@@ -654,10 +679,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {
-              "background": "#1abc9c"
+              "background": "#28324e"
             },
             ".mbr-navbar__hamburger": {
               "color": "#e25041"
@@ -666,13 +691,16 @@
               "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-navbar__items a H2": {
+              "font-size": "13px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">STRONA GŁÓWNA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projekty.html\">PROJEKTY</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">USŁUGI</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"zrealizowane.html\">ZREALIZOWANE</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://quantikof.github.io\">STRONA GŁÓWNA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projekty.html\">PROJEKTY<h2></h2></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"uslugi.html\">USŁUGI</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/24882954-1798876180411359-2069255224-o-160x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24882954_1798876180411359_2069255224_o-160x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",

@@ -403,10 +403,10 @@ nav.opened .hamburger span {
   font-size: 16px;
 }
 &.mbr-navbar--stuck .mbr-navbar__section {
-  background: #1abc9c;
+  background: #28324e;
 }
 .mbr-navbar__section {
-  background: #1abc9c;
+  background: #28324e;
 }
 .mbr-navbar__hamburger {
   color: #e25041;
@@ -415,19 +415,22 @@ nav.opened .hamburger span {
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
 }
+.mbr-navbar__items a H2 {
+  font-size: 13px;
+}
 }
 
-#header3-k {
+#image1-v {
 }
 
 #ext_menu-l .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-l.mbr-navbar--stuck .mbr-navbar__section {
-  background: #1abc9c;
+  background: #28324e;
 }
 #ext_menu-l .mbr-navbar__section {
-  background: #1abc9c;
+  background: #28324e;
 }
 #ext_menu-l .mbr-navbar__hamburger {
   color: #e25041;
@@ -436,15 +439,18 @@ nav.opened .hamburger span {
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
 }
+#ext_menu-l .mbr-navbar__items a H2 {
+  font-size: 13px;
+}
 
 #ext_menu-o .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-o.mbr-navbar--stuck .mbr-navbar__section {
-  background: #1abc9c;
+  background: #28324e;
 }
 #ext_menu-o .mbr-navbar__section {
-  background: #1abc9c;
+  background: #28324e;
 }
 #ext_menu-o .mbr-navbar__hamburger {
   color: #e25041;
@@ -453,15 +459,18 @@ nav.opened .hamburger span {
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
 }
+#ext_menu-o .mbr-navbar__items a H2 {
+  font-size: 13px;
+}
 
 #ext_menu-p .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-p.mbr-navbar--stuck .mbr-navbar__section {
-  background: #1abc9c;
+  background: #28324e;
 }
 #ext_menu-p .mbr-navbar__section {
-  background: #1abc9c;
+  background: #28324e;
 }
 #ext_menu-p .mbr-navbar__hamburger {
   color: #e25041;
@@ -469,4 +478,7 @@ nav.opened .hamburger span {
 #ext_menu-p .mbr-brand__name a {
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
+}
+#ext_menu-p .mbr-navbar__items a H2 {
+  font-size: 13px;
 }
